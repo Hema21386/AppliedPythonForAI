@@ -2,7 +2,7 @@
 My projects while I learnt Applied Python for AI
 
 Working_snippet_1
-Program to check if the year is a leap year
+Program to check if the year is a leap year, 
 Program to convert centimeters to inches 
 
 Working_snippet_2
