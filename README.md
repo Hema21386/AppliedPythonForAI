@@ -58,4 +58,6 @@ Working_snippet_18
 Full body detection using haarcascade xml files
 Video File Used - walking.avi
 
-
+Working_snippet_19
+Create video using set of images - using OpenCV and os modules - 
+Image files - FolderName[Videocreation_Images]
